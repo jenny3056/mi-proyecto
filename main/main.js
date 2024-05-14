@@ -8,6 +8,7 @@ console.log("los docentes hacen mucho ruido cuando doy clases")
 console.log("prueba de checkout")
 console.log("prueba de checkout")
 console.log("prueba de checkout")
+console.log("prueba de checkout")
 
 
 
